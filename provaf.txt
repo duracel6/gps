@@ -1,0 +1,1854 @@
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140408.000,V,N*4C
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140409.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*77
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,119,,20,53,061,,16,48,205,*7B
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140409.000,V,N*4D
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140410.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140410.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140411.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140411.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140412.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140412.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140413.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140413.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140414.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140414.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140415.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140415.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140416.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140416.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140417.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140417.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140418.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*77
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140418.000,V,N*4D
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140419.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*76
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140419.000,V,N*4C
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140420.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140420.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140421.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140421.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140422.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140422.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140423.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140423.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140424.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140424.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140425.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140425.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140426.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140426.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140427.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140427.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140428.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*74
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140428.000,V,N*4E
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140429.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*75
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140429.000,V,N*4F
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140430.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140430.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140431.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,44,148,*67
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140431.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140432.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140432.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140433.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140433.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140434.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140434.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140435.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140435.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140436.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140436.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140437.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140437.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140438.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*75
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140438.000,V,N*4F
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140439.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*74
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140439.000,V,N*4E
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140440.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140440.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140441.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140441.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140442.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140442.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140443.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,331,,10,71,117,,20,53,061,,16,48,205,*75
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140443.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140444.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140444.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140445.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140445.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140446.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140446.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140447.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140447.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140448.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*72
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140448.000,V,N*48
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140449.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*73
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140449.000,V,N*49
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140450.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140450.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140451.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140451.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140452.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140452.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140453.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140453.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140454.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140454.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140455.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140455.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140456.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140456.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140457.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140457.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140458.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*73
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140458.000,V,N*49
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140459.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*72
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140459.000,V,N*48
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140500.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140500.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140501.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140501.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140502.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140502.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140503.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140503.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140504.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140504.000,V,N*41
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140505.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140505.000,V,N*40
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140506.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140506.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140507.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,10,27,73,332,,10,71,117,,20,53,061,,16,48,205,*76
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 27, elevation: 73, azimuth: 332, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 117, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,051,,72,50,071,,88,47,327,,65,44,148,*66
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 51, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 44, azimuth: 148, snr: 0 dbm
+xGSV: message 1 of 1
+$xxGSV: sattelites in view: 3
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+$xxGSV: sat nr 15, elevation: 8, azimuth: 42, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $PSTMCPU,23.17,-1,49*48
+$xxxxx sentence is not valid
+RECEIVED:  $GPRMC,140325.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,1,1,03,10,71,119,,08,35,310,,15,08,042,,,,,*42
+$xxGSV: message 1 of 1
+$xxGSV: sattelites in view: 3
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+$xxGSV: sat nr 15, elevation: 8, azimuth: 42, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $PSTMCPU,28.81,-1,49*4C
+$xxxxx sentence is not valid
+RECEIVED:  $GPRMC,140326.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,1,1,03,10,71,119,,08,35,310,,15,08,042,,,,,*42
+$xxGSV: message 1 of 1
+$xxGSV: sattelites in view: 3
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+$xxGSV: sat nr 15, elevation: 8, azimuth: 42, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $PSTMCPU,18.28,-1,49*4C
+$xxxxx sentence is not valid
+RECEIVED:  $GPRMC,140327.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,1,1,03,10,71,119,,08,35,310,,15,08,042,,,,,*42
+$xxGSV: message 1 of 1
+$xxGSV: sattelites in view: 3
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+$xxGSV: sat nr 15, elevation: 8, azimuth: 42, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $PSTMCPU,22.15,-1,49*4B
+$xxxxx sentence is not valid
+RECEIVED:  $GPRMC,140328.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*73
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140329.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*72
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140330.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140331.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140332.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140333.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140334.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140335.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140336.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140337.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,06,10,71,119,,20,53,061,,16,48,205,,08,35,310,*71
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 6
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,05,81,07,295,,,,,,,,,,,,,*50
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 5
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+$xxGSV: sat nr 0, elevation: 0, azimuth: 0, snr: 0 dbm
+RECEIVED:  $GPRMC,140338.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*72
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140339.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*73
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140340.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140341.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140342.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140343.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140344.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140345.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140346.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7B
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140347.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,2,1,07,10,71,119,,20,53,061,,16,48,205,,08,35,310,*70
+$xxGSV: message 1 of 2
+$xxGSV: sattelites in view: 7
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+$xxGSV: sat nr 8, elevation: 35, azimuth: 310, snr: 0 dbm
+RECEIVED:  $GLGSV,2,2,08,79,22,314,,77,10,221,,86,08,094,,81,07,295,*6E
+$xxGSV: message 2 of 2
+$xxGSV: sattelites in view: 8
+$xxGSV: sat nr 79, elevation: 22, azimuth: 314, snr: 0 dbm
+$xxGSV: sat nr 77, elevation: 10, azimuth: 221, snr: 0 dbm
+$xxGSV: sat nr 86, elevation: 8, azimuth: 94, snr: 0 dbm
+$xxGSV: sat nr 81, elevation: 7, azimuth: 295, snr: 0 dbm
+RECEIVED:  $GPRMC,140348.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*75
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140348.000,V,N*4F
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140349.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*74
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140349.000,V,N*4E
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140350.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7C
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140350.000,V,N*46
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140351.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7D
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140351.000,V,N*47
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140352.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7E
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140352.000,V,N*44
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140353.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7F
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140353.000,V,N*45
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140354.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*78
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140354.000,V,N*42
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140355.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*79
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
+RECEIVED:  $GPGSV,3,1,09,27,73,331,,10,71,119,,20,53,061,,16,48,205,*73
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 9
+$xxGSV: sat nr 27, elevation: 73, azimuth: 331, snr: 0 dbm
+$xxGSV: sat nr 10, elevation: 71, azimuth: 119, snr: 0 dbm
+$xxGSV: sat nr 20, elevation: 53, azimuth: 61, snr: 0 dbm
+$xxGSV: sat nr 16, elevation: 48, azimuth: 205, snr: 0 dbm
+RECEIVED:  $GLGSV,3,1,10,87,53,050,,72,50,071,,88,47,327,,65,43,148,*60
+$xxGSV: message 1 of 3
+$xxGSV: sattelites in view: 10
+$xxGSV: sat nr 87, elevation: 53, azimuth: 50, snr: 0 dbm
+$xxGSV: sat nr 72, elevation: 50, azimuth: 71, snr: 0 dbm
+$xxGSV: sat nr 88, elevation: 47, azimuth: 327, snr: 0 dbm
+$xxGSV: sat nr 65, elevation: 43, azimuth: 148, snr: 0 dbm
+RECEIVED:  $GPGLL,4046.35185,N,01447.42800,E,140355.000,V,N*43
+$xxGll: raw latitude,longitude and altitude: (40.772533416,14.790467262)
+RECEIVED:  $GPRMC,140356.000,V,4046.35185,N,01447.42800,E,0.0,0.0,120718,,,N*7A
+$xxRMC: raw coordinates and speed: (40.772533416,14.790467262) 0/10
+$xxRMC fixed-point coordinates and speed scaled to three decimal places: (4046352,1447428) 0
+$xxRMC floating point degree coordinates and speed: (40.772529602,14.790466308) 0.000000000
+RECEIVED:  $GNGSA,A,1,,,,,,,,,,,,,99.0,99.0,99.0*1E
