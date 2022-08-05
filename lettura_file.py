@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from PIL import Image, ImageDraw
 import PIL
 
-points=(40.7794,14.7701,40.7602, 14.8115)
+points=(40.7763,14.7248,40.6924,14.8964)
 
 def scale_to_img(lat_lon, h_w):
     """
@@ -29,8 +29,8 @@ def scale_to_img(lat_lon, h_w):
 
 lats=[]
 lons=[]
-writingFile = open(r"C:\Users\ccliu\Desktop\loggps\log.cvs",mode='w') #apertura e creazione file di scrittura
-with  open(r"C:\Users\ccliu\Desktop\loggps\provafinale.txt")  as readingFile: #apertura Log 
+writingFile = open(r"C:\Users\ccliu\Desktop\gps\log.txt",mode='w') #apertura e creazione file di scrittura
+with  open(r"C:\Users\ccliu\Desktop\gps\ciao.log")  as readingFile: #apertura Log 
     for line in readingFile:
         x=re.search("^\\$xxRMC floating point degree coordinates and speed:",line)
         #print(line,"ciao")
@@ -43,7 +43,7 @@ with  open(r"C:\Users\ccliu\Desktop\loggps\provafinale.txt")  as readingFile: #a
             writingFile.write( lat + "," + long +"\n")
 data={"LATITUDE":lats,"LONGITUDE" :lons}          
 gps_data = tuple(zip(data['LATITUDE'], data['LONGITUDE']))
-image = Image.open('map (4).png', 'r')  # Load map image.
+image = Image.open(r"C:\Users\ccliu\Desktop\gps\map (2).png", 'r')  # Load map image.
 img_points = []
 for d in gps_data:
     x1, y1 = scale_to_img(d, (image.size[0], image.size[1]))  # Convert GPS coordinates to image coordinates.
@@ -51,6 +51,6 @@ for d in gps_data:
 draw = ImageDraw.Draw(image)
 draw.line(img_points, fill=(255, 0, 0), width=2)  # Draw converted records to the map image.
 image.show()
-plt.plot(lats, lons)
+plt.scatter(lats, lons)
 plt.show()
 writingFile.close()
